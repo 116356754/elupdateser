@@ -1,0 +1,22 @@
+{
+  "iOS": {
+	"resourceVersion": "2015051908",
+	"Version": "1",
+	"updateUrl": "http://www.baidu.com",
+	"resourceUrl": "http://192.168.20.115:8807/bocclient/update/res_patp_ios.zip"
+  },
+  "android": {
+	"resourceVersion": "2015051909",
+	"Version": "1",
+	"updateUrl": "http://192.168.20.115:8807/bocclient/update/res_patp_android.apk",
+	"resourceUrl": "http://192.168.20.115:8807/bocclient/update/res_patp_android.zip"
+  },
+  "windows": {
+	"resourceVersion": "1.5.1",
+	"Version": "0.36.12",	
+	"resourceUrl": "http://dldir1.qq.com/foxmail/windows/fm727chb166_build_setup.exe",	
+	"updateUrl": "http://127.0.0.1:8087/update/Setup.exe",
+	"frameSign":"59120c11e494586ef09277942066184c",
+	"appSign":"45b83d98593ba8425e59d125d45bb053"
+  }
+}
