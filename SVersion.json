@@ -14,7 +14,7 @@
   "windows": {
 	"resourceVersion": "1.5.1",
 	"Version": "0.36.12",	
-	"resourceUrl": "http://dldir1.qq.com/foxmail/windows/fm727chb166_build_setup.exe",	
+	"resourceUrl": "https://github.com/116356754/elupdateser/blob/master/app1.5.1.exe",	
 	"updateUrl": "http://127.0.0.1:8087/update/Setup.exe",
 	"frameSign":"59120c11e494586ef09277942066184c",
 	"appSign":"45b83d98593ba8425e59d125d45bb053"
